@@ -1,7 +1,12 @@
 # start-reactjs
 
 ## Setup
- 
+Create new
+```bash
+cd ../; npx create-react-app start-reactjs
+```
+This cmd will generate template react app
+
 ### reactjs
 
 
